@@ -1,17 +1,19 @@
 {
   "nodes": [
     {
-      "id": "Myriel",
+      "id": "1",
       "group": 1
     },
     {
-      "source": "Babet",
-      "target": "Valjean",
-      "value": 1
-    },
+      "id": "2",
+      "group": "1",
+    }
+  ]
+  "links:
+  [
     {
-      "source": "Babet",
-      "target": "Mme.Thenardier",
+      "source": "1",
+      "target": "2",
       "value": 1
     }
   ]
