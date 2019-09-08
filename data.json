@@ -31,15 +31,38 @@
   ],
   "links":
   [
-    {
-      "source": "1",
-      "target": "2",
-      "value": 1
-    },
-    {
-      "source": "3",
-      "target": "4",
-      "value": 1
-    }
+{"link_no":1,"source":1,"target":2,"len":534.7526,"value":1},
+{"link_no":2,"source":3,"target":4,"len":442.6381,"value":1},
+{"link_no":3,"source":2,"target":4,"len":140.2026,"value":1},
+{"link_no":4,"source":2,"target":5,"len":177.0245,"value":1},
+{"link_no":5,"source":4,"target":6,"len":222.764,"value":1},
+{"link_no":6,"source":5,"target":6,"len":95.3846,"value":1},
+{"link_no":7,"source":5,"target":7,"len":233.0097,"value":1},
+{"link_no":8,"source":6,"target":8,"len":319.8407,"value":1},
+{"link_no":9,"source":8,"target":9,"len":94.5875,"value":1},
+{"link_no":10,"source":9,"target":10,"len":321.1997,"value":1},
+{"link_no":11,"source":11,"target":9,"len":339.9389,"value":1},
+{"link_no":12,"source":12,"target":13,"len":222.6888,"value":1},
+{"link_no":13,"source":13,"target":15,"len":460.5556,"value":1},
+{"link_no":14,"source":13,"target":14,"len":210.9205,"value":1},
+{"link_no":15,"source":14,"target":15,"len":106.4148,"value":1},
+{"link_no":16,"source":14,"target":18,"len":482.4397,"value":1},
+{"link_no":17,"source":15,"target":16,"len":325.244,"value":1},
+{"link_no":18,"source":16,"target":8,"len":363.769,"value":1},
+{"link_no":19,"source":16,"target":24,"len":205.0603,"value":1},
+{"link_no":20,"source":24,"target":25,"len":150.2106,"value":1},
+{"link_no":21,"source":25,"target":27,"len":246.0655,"value":1},
+{"link_no":22,"source":27,"target":28,"len":149.2579,"value":1},
+{"link_no":23,"source":18,"target":17,"len":154.7544,"value":1},
+{"link_no":24,"source":19,"target":18,"len":109.7769,"value":1},
+{"link_no":25,"source":19,"target":23,"len":368.1309,"value":1},
+{"link_no":26,"source":23,"target":24,"len":429.2123,"value":1},
+{"link_no":27,"source":21,"target":20,"len":93.008,"value":1},
+{"link_no":28,"source":20,"target":19,"len":45.0149,"value":1},
+{"link_no":29,"source":20,"target":22,"len":138.2339,"value":1},
+{"link_no":30,"source":22,"target":23,"len":272.2573,"value":1},
+{"link_no":31,"source":22,"target":25,"len":869.505,"value":1},
+{"link_no":32,"source":26,"target":27,"len":467.3423,"value":1}
+
   ]
 }
